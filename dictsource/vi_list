@@ -32,7 +32,7 @@ _5	n'am		// năm
 _6	s'aU3		// sáu
 _7	_b'aI4		// bảy
 _8	t['a:3m		// tám
-_9	tSi3n		// chín
+_9	cSi3n		// chín
 _1X	m'y@2j		// mười
 _2X	h'a:I||m'y@7j	// hai mươi
 _3X	_b'a:||m'y@7j	// ba mươi
@@ -41,7 +41,7 @@ _5X	n'am||m'y@7j	// năm mươi
 _6X	s'aU3||m'y@7j	// sáu mươi
 _7X	_b'aI4||m'y@7j	// bảy mươi
 _8X	t['a:3m||m'y@7j	// tám mươi
-_9X	tSi3n||m'y@7j	// chín mươi
+_9X	cSi3n||m'y@7j	// chín mươi
 
 _21	h'a:I||m'y@7j||m'o3t[
 _31	_b'a:||m'y@7j||m'o3t[
@@ -50,7 +50,7 @@ _51	n'am||m'y@7j||m'o3t[
 _61	s'aU3||m'y@7j||m'o3t[
 _71	_b'aI4||m'y@7j||m'o3t[
 _81	t['a:3m||m'y@7j||m'o3t[
-_91	tSi3n||m'y@7j||m'o3t[
+_91	cSi3n||m'y@7j||m'o3t[
 
 _25	h'a:I||m'y@7j||l'a7m
 _35	_b'a:||m'y@7j||l'a7m
@@ -59,7 +59,7 @@ _55	n'am||m'y@7j||l'a7m
 _65	s'aU3||m'y@7j||l'a7m
 _75	_b'aI4||m'y@7j||l'a7m
 _85	t['a:3m||m'y@7j||l'a7m
-_95	tSi3n||m'y@7j||l'a7m
+_95	cSi3n||m'y@7j||l'a7m
 
 _0C	tS'am		// trăm
 _0M1	N'a:2n		// ngàn
@@ -71,7 +71,7 @@ _dpt	_f,@I4_
 // kí hiệu - symbols
 ~	J'@U3N'a:5
 `	J'@U3hw'i@2n
-_!	J'@U3tS@3mt'a:7n
+_!	J'@U3cS@3mt'a:7n
 @	a:1k'O2N
 #	J'@U3t'a7N	$max3
 $	J'@U3_d'o1l'a:7
@@ -91,16 +91,16 @@ _[	m'@:4Nw'a6khv'u@7N
 _]	_d'O3NNw'a6khv'u@7N
 _|	s'o4t'a4N
 _\	s'o4f,a:I4
-_:	h'a:I1tS@3m
-_;	tS@3mf'@I4
+_:	h'a:I1cS@3m
+_;	cS@3mf'@I4
 _'	Nw'a6kh_d'@:7n
 _“	Nw'a6khk'E3p
 _,	f'@I4
-_.	tS@3m
+_.	cS@3m
 _/	s'o4tS'a:I3
 _<	n^'O4h'@:7n
 _>	l'@:3nh'@:7n
-_?	h'OI4tS@3m
+_?	h'OI4cS@3m
 
 // ?? found in festival wow_vi_ptn_phrasing.scm
 bị	$u
